@@ -26,4 +26,4 @@ namespace Simple_Email_Client
 }
 
 // Програму розробив студент групи КІт-212 Фурс В.С.
-//Changes for branches2
+// Merge text
